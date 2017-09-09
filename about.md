@@ -7,6 +7,6 @@ permalink: /about/
 
 Just a guy with a blog.
 
-### Contact me
+### Email me
 
-Email: my first name at this domain
+My first name at this domain name.
