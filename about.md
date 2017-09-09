@@ -9,4 +9,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-Email me at [first name at this domain]
+Email me at [my first name at this domain]
